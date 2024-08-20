@@ -1,0 +1,61 @@
+.project {
+  width: 100%;
+  height: auto;
+  min-height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box; /* Ensure padding is included in the width/height */
+}
+
+.project h1 {
+  margin-top: 20px;
+  color: #3e497a;
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.project img {
+  width: 40%;
+  height: 40%;
+  max-width: 700px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.project p {
+  font-size: 1.5rem;
+  color: #3e497a;
+  margin-left: 7.5rem;
+  margin-right: 7.5rem;
+}
+
+.project svg {
+  font-size: 3rem;
+  color: #3e497a;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* Media Query for Smaller Screens */
+@media (max-width: 768px) {
+  .project h1 {
+    font-size: 1.5rem;
+  }
+
+  .project p {
+    font-size: 1.7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .project svg {
+    font-size: 2rem;
+  }
+
+  .project img {
+    width: 100%;
+  }
+}

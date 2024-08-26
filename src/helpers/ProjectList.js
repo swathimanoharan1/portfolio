@@ -19,7 +19,7 @@ export const ProjectList = [
       "Ensured mobile responsiveness with optimized layouts and features.",
     ],
     skills: "Django, Bootstrap, HTML, CSS, PostgreSQL",
-    github: "https://github.com/swathimanoharan1/myscribblebook",
+    github: "https://github.com/swathimanoharan1/CCBlog",
   },
 
   {
@@ -49,7 +49,7 @@ export const ProjectList = [
       "The website is fully responsive, ensuring a seamless user experience across all devices.",
     ],
     skills: "ReactJS, CSS",
-    github: "https://github.com/swathimanoharan1/myscribblebook",
+    github: "https://github.com/swathimanoharan1/portfolio",
   },
 
   {

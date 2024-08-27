@@ -1,6 +1,7 @@
 import CodeCraft from "../assets/CodeCraft.jpeg";
 import IconicThreads from "../assets/IconicThreads.png";
 import Portfolio from "../assets/Portfolio.png";
+import Pythonprojects from "../assets/Pythonprojects.jpg";
 import Proj4 from "../assets/proj4.webp";
 import Proj5 from "../assets/proj5.jpg";
 import Proj1 from "../assets/proj1.jpg";
@@ -50,6 +51,21 @@ export const ProjectList = [
     ],
     skills: "ReactJS, CSS",
     github: "https://github.com/swathimanoharan1/portfolio",
+  },
+
+  {
+    name: "Python Projects",
+    image: Pythonprojects,
+    description:
+      "Developed multiple Python projects, showcasing my proficiency in both core Python and GUI development.",
+    keyfeatures: [
+      "Library Management: A console-based Python application for managing a library's book inventory, including adding, removing, issuing, and returning books with data stored in CSV files.",
+      "Password Manager: A Python based tool for generating, storing, and managing passwords with encryption and a command-line interface.",
+      "Resume Generator: This project automates the creation of a polished resume, improving efficiency and consistency for users who need to generate resumes quickly and accurately.",
+      "Tkinter Projects: This bunch of projects demonstrate practical use of Tkinter for creating a graphical user interface and showcases an engaging color scheme to enhance user experience.",
+    ],
+    skills: "Python, Tkinter",
+    github: "https://github.com/swathimanoharan1/PythonProjects",
   },
 
   {

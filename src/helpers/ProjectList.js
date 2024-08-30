@@ -1,10 +1,7 @@
-import CodeCraft from "../assets/CodeCraft.jpeg";
+import CodeCraft from "../assets/CodeCraft.png";
 import IconicThreads from "../assets/IconicThreads.png";
 import Portfolio from "../assets/Portfolio.png";
 import Pythonprojects from "../assets/Pythonprojects.jpg";
-import Proj4 from "../assets/proj4.webp";
-import Proj5 from "../assets/proj5.jpg";
-import Proj1 from "../assets/proj1.jpg";
 
 export const ProjectList = [
   {
@@ -68,53 +65,5 @@ export const ProjectList = [
     ],
     skills: "Python, Tkinter",
     github: "https://github.com/swathimanoharan1/PythonProjects",
-  },
-
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    description:
-      "Developed a responsive blog website for CodeCraft, focusing on technology and programming topics.",
-    keyfeatures: [
-      "Implemented a dynamic search functionality with pagination to easily browse blog posts.",
-      "Developed a sticky navigation bar for enhanced user experience across all devices.",
-      "Created custom pages including 'About Us' and post details, integrating SEO-friendly meta tags.",
-      "Applied lazy loading for images to improve site performance.",
-      "Ensured mobile responsiveness with optimized layouts and features.",
-    ],
-    skills: "React,Node.js,MySQL,GraphQL",
-    github: "https://github.com/swathimanoharan1/myscribblebook",
-  },
-
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    description:
-      "Developed a responsive blog website for CodeCraft, focusing on technology and programming topics.",
-    keyfeatures: [
-      "Implemented a dynamic search functionality with pagination to easily browse blog posts.",
-      "Developed a sticky navigation bar for enhanced user experience across all devices.",
-      "Created custom pages including 'About Us' and post details, integrating SEO-friendly meta tags.",
-      "Applied lazy loading for images to improve site performance.",
-      "Ensured mobile responsiveness with optimized layouts and features.",
-    ],
-    skills: "JavaScript,HTML,CSS",
-    github: "https://github.com/swathimanoharan1/myscribblebook",
-  },
-
-  {
-    name: "Dijkstra Algorithm Visualizer",
-    image: Proj1,
-    description:
-      "Developed a responsive blog website for CodeCraft, focusing on technology and programming topics.",
-    keyfeatures: [
-      "Implemented a dynamic search functionality with pagination to easily browse blog posts.",
-      "Developed a sticky navigation bar for enhanced user experience across all devices.",
-      "Created custom pages including 'About Us' and post details, integrating SEO-friendly meta tags.",
-      "Applied lazy loading for images to improve site performance.",
-      "Ensured mobile responsiveness with optimized layouts and features.",
-    ],
-    skills: "JavaScript,HTML,CSS",
-    github: "https://github.com/swathimanoharan1/JavaScript-Assignment",
   },
 ];

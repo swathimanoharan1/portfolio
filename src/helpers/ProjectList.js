@@ -21,6 +21,7 @@ export const ProjectList = [
     ],
     skills: "Django, Bootstrap, HTML, CSS, PostgreSQL",
     github: "https://github.com/swathimanoharan1/CCBlog",
+    website: "https://cc-blog-sigma.vercel.app/",
   },
 
   {
@@ -51,6 +52,7 @@ export const ProjectList = [
     ],
     skills: "ReactJS, CSS",
     github: "https://github.com/swathimanoharan1/portfolio",
+    website: "https://portfolio-swathis-projects-b7b97b41.vercel.app/",
   },
 
   {

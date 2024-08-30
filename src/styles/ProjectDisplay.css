@@ -39,6 +39,16 @@
   margin-top: 10px;
 }
 
+.project .socialIcons {
+  display: flex;
+  gap: 50px;
+}
+
+.project .socialIcons a {
+  color: inherit;
+  text-decoration: none;
+}
+
 /* Media Query for Smaller Screens */
 @media (max-width: 768px) {
   .project h1 {

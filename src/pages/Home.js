@@ -14,15 +14,23 @@ function Home() {
           <a href="mailto:swathimanoharan45303@gmail.com">
             <EmailIcon />
           </a>
-          <a href="https://www.linkedin.com/in/swathi-manoharan-73673b1a6/" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.linkedin.com/in/swathi-manoharan-73673b1a6/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <LinkedInIcon />
           </a>
-          <a href="https://github.com/swathimanoharan1" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/swathimanoharan1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <GitHubIcon />
           </a>
         </div>
       </div>
-      <div className="skills">
+      <div className="skills" id="skills">
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">

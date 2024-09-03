@@ -24,7 +24,12 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Chennai, TamilNadu
           </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <p>
+            Worked as an Angular Developer, transforming designs into functional
+            code for an internal project. Worked as a .NET Developer, retrieved
+            data from third-party websites, converted it to the desired format,
+            and significantly reduced processing time.
+          </p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

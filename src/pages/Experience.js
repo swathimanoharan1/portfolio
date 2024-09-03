@@ -22,7 +22,7 @@ function Experience() {
             Systems Engineer - Infosys
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Chennai, Tamil Nadu
+            Chennai, TamilNadu
           </h4>
           <p>Developed the backend infrastructure for 3 projects.</p>
         </VerticalTimelineElement>
@@ -42,6 +42,24 @@ function Experience() {
           <p>
             Collaborated with the team to develop a full-stack application,
             contributing to front-end, back-end, and database development.
+          </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jul, 2021 - Aug, 2021"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Python Blogger - TechSnap
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Chennai, TamilNadu
+          </h4>
+          <p>
+            Carefully crafted four blogs on various Python core concepts and
+            award as Best Intern for my work.
           </p>
         </VerticalTimelineElement>
 
